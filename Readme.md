@@ -5,7 +5,7 @@ pass: ""
 app running at 3000 port . 
 Api: score.json in root directory 
 
-To see the data before inswertion using API.
+To see the data before insertion it using API.
  1> Open the app in 3000 port where you will see all the data have to be inserted .
  
 how to insert data
