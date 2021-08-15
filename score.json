@@ -1,0 +1,38 @@
+ [{
+         "id": 1,
+         "candidate_email": "Arun Malhotra22@gmail.com ",
+         "first_round": 6,
+         "second_round": 8,
+         "third_round": 9
+     },
+
+     {
+         "id": 2,
+         "candidate_email": "Sunny23@gmail.com ",
+         "first_round": 8,
+         "second_round": 1,
+         "third_round": 8
+     },
+
+     {
+         "id": 3,
+         "candidate_email": "Rahul@gmail.com ",
+         "first_round": 8,
+         "second_round": 5,
+         "third_round": 4
+     },
+     {
+         "id": 4,
+         "candidate_email": "Arun Malhotra123@gmail.com ",
+         "first_round": 2,
+         "second_round": 4,
+         "third_round": 2
+     },
+     {
+         "id": 5,
+         "candidate_email": "Hemant333@gmail.com ",
+         "first_round": 5,
+         "second_round": 8,
+         "third_round": 2
+     }
+ ]
