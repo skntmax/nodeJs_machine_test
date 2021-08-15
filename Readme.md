@@ -1,9 +1,9 @@
-Databse used : Mysql
-Databse Name : test
-username : root
+Databse used : Mysql, 
+Databse Name : test, 
+username : root, 
 pass: ""
 
-app running at 3000 port . 
+app running at 3000 port , 
 Api: score.json in root directory 
 
 To see the data before insertion it using API.
