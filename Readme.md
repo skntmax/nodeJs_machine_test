@@ -1,4 +1,5 @@
-databse used : Mysql 
+Databse used : Mysql
+Databse Name : test
 username : root
 pass: ""
 
